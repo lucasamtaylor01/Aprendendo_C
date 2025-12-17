@@ -1,3 +1,5 @@
+// LER UM INTEIRO E RETORNAR SEU SUCESSOR E ANTECESSOR
+
 #include <stdio.h>
 #include <stdlib.h>
 
