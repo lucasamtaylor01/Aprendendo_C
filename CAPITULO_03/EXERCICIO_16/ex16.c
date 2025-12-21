@@ -12,7 +12,7 @@ int main(){
     metade = numero >> 1;
     
     printf("O dobro de %d é %d\n", numero, dobro);
-    printf("A metade de %d é %d\n", numero, metade); // OK
+    printf("A metade de %d é %d\n", numero, metade);
 
     return 0;
 } 
