@@ -1,5 +1,3 @@
-// SOMA DE TRÊS INTEIROS
-
 #include <stdio.h>
 
 int main(){

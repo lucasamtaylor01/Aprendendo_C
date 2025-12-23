@@ -1,5 +1,3 @@
-// ÁREA DO CÍRCULO
-
 #include <stdio.h>
 #include <math.h>
 

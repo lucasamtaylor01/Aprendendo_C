@@ -1,5 +1,3 @@
-// CONVERSÃO DE KM/H -> M/S
-
 #include <stdio.h>
 
 int main(){

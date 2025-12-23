@@ -1,4 +1,3 @@
-// CONVERSÃO DE REAL -> DÓLAR
 // COTAÇÃO DE 16/12/2025
 
 #include <stdio.h>

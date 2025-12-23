@@ -1,8 +1,6 @@
-// CONVERSÃO DE GRAUS PARA RADIANOS
-
 #include <stdio.h>
 
-float PI = 3.14;
+#define PI 3.14
 
 int main(){
     float graus, radianos;

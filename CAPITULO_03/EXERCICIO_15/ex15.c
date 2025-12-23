@@ -1,5 +1,3 @@
-// INVERTER NÚMERO
-
 #include <stdio.h>
 
 int main(){

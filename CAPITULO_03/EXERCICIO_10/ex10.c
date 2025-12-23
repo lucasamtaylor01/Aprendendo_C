@@ -1,5 +1,3 @@
-// DIVISÃO DE QUANTIDA
-
 #include <stdio.h>
 
 int main(){

@@ -1,5 +1,3 @@
-// ÁREA DO CILINDO
-
 #include <stdio.h>
 #include <math.h>
 

@@ -1,5 +1,3 @@
-// MEDIA ARITMETICA
-
 #include <stdio.h>
 int main(){
     float x,y,z, media;

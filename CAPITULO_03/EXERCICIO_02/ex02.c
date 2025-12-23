@@ -1,5 +1,3 @@
-// QUINTA PARTE
-
 #include <stdio.h>
 #include <stdlib.h>
 
