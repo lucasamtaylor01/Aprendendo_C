@@ -1,0 +1,27 @@
+Explicação sobre Cast em C
+
+Cast é uma conversão explícita de tipo em C.
+Usamos quando queremos forçar um valor a ser tratado como outro tipo.
+
+Sintaxe:
+(tipo) valor
+
+Exemplo importante: cálculo de média
+
+Sem cast:
+int soma = 87;
+float media = soma / 10;  // resultado: 8.0 (divisão inteira!)
+
+Com cast:
+float media = (float)soma / 10;  // resultado: 8.7
+
+Por quê?
+- (float)soma converte 87 para 87.0
+- Agora a divisão é em ponto flutuante
+- O resultado mantém a parte decimal
+
+Outras formas válidas:
+media = soma / 10.0;
+media = (float)soma / 10.0;
+
+O cast evita perda de precisão em divisões!
